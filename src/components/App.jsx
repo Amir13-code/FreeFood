@@ -1,4 +1,4 @@
-import Cards from "./cards";
+import Cards from "./Cards";
 
 function App() {
   return (
